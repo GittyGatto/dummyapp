@@ -4,7 +4,7 @@ mvn clean install
 # run war-file manually
 java -jar target/dummyApp.war 
 
-# build and Run docker image
+# build and run docker image
 ./buildAndRunDockerImage.sh
 
 # build manually
