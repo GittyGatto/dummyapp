@@ -11,7 +11,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springBootVersion>2.1.7.RELEASE</springBootVersion>
+        <springBootVersion>2.5.12</springBootVersion>
         <junit.jupiter.verion>5.5.1</junit.jupiter.verion>
         <maven.plugins.version>3.1.2</maven.plugins.version>
         <maven.surefire.version>2.22.2</maven.surefire.version>
